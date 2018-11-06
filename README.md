@@ -1,2 +1,6 @@
 # Object-Lab-4
-p5 and serial practice
+serial practice, arduino code
+https://editor.p5js.org/CSpeelman/sketches/BkGjlOAhQ -- p5 code
+
+
+
